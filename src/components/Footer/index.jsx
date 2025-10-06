@@ -13,7 +13,7 @@ const Footer = () => {
             className="img-fluid"
             style={{
               width: "200px",
-              height: "100px",
+              height: "200px",
               objectFit: "cover",
             }}
           />

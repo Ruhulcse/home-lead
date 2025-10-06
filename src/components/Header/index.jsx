@@ -13,8 +13,9 @@ const Header = () => {
                     alt="logo"
                     className="img-fluid"
                     style={{
-                      width: "170px",
-                      height: "70px",
+                      paddingTop: "10px",
+                      width: "100px",
+                      height: "100px",
                       objectFit: "cover",
                     }}
                   />
