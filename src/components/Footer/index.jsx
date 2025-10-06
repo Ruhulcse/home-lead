@@ -32,7 +32,7 @@ const Footer = () => {
         <hr />
         <div className="footer-bottom-list">
           <div style={mystyle} className="brand">
-            &copy; {new Date().getFullYear()} Bouwreyad
+            &copy; {new Date().getFullYear()} Solidum Renovatie
           </div>
           {/* <ul className="nav sd-0">
                         <li>
