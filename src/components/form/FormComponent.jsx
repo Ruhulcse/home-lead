@@ -193,8 +193,8 @@ const FormComponent = ({ step, setStep }) => {
             console.log(formData);
             // console.log(form.current);
             emailjs
-                .send('service_x98crwa', 'template_h64gn2c', formData, {
-                    publicKey: 'YREu23x1xOFs_gpxZ',
+                .send('service_qz3stqz', 'template_6oalhwk', formData, {
+                    publicKey: 'LyhjjzfZTuz6HVe1u',
                 })
                 .then(
                     () => {
